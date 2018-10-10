@@ -1,6 +1,7 @@
 title {
       font-family: Palatino,'Palatino Linotype',serif;
       font-size: 32px;
+      color: red
 }
 .gallery{	
     display: flex;	     
