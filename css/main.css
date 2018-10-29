@@ -1,9 +1,9 @@
-title {
-      font-family: Palatino,'Palatino Linotype',serif;
+#name {
+      
       font-size: 32px;
-      color: red
+      color: red;
 }
-.gallery{	
+#front-pic{	
     display: flex;	     
     flex-wrap: wrap;
     justify-content: center;
