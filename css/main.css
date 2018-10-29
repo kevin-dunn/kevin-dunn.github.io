@@ -1,10 +1,10 @@
-#name {
-      
-      font-size: 32px;
-      color: red;
+#name {      
+      font-size: 48px;
+      color: black;
 }
-#front-pic{	
-    display: flex;	     
-    flex-wrap: wrap;
-    justify-content: center;
+.center{	
+    display: block;	     
+    margin-left:auto;
+    margin-right:auto;
+    width:50%
 }   
