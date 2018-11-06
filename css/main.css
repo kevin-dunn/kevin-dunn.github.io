@@ -5,6 +5,7 @@
       margin-left:auto;
       margin-right:auto;
       width:25%;
+
 }
 .center{	
     display: block;	     
@@ -14,4 +15,6 @@
 }
 
 .nav{
+background-color:white;}
+.photo{
 background-color:grey;}   
